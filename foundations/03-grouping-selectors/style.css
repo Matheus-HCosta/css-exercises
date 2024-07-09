@@ -1,0 +1,14 @@
+.me {
+    background-color: #000;
+    color: #fff;
+}
+
+.no-me {
+    background-color: hsl(60, 100%, 50%);
+}
+
+.no-me,
+.me {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif; 
+}
